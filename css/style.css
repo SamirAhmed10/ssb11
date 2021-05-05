@@ -1,0 +1,44 @@
+.box{
+	min-height: 100px;
+	background-color: red;
+	margin-bottom: 5px;
+	font-size: 30px;
+	color: white;
+
+}
+ww
+.box1{
+	min-height: 100px;
+	background-color: green;
+	margin-bottom: 5px;
+	font-size: 30px;
+	color: white;
+}
+.box2{
+	min-height: 100px;
+	background-color: teal;
+	margin-bottom: 5px;
+	font-size: 30px;
+	color: white;
+
+}
+.hero, .body,.bar,.footer {
+	margin:10px 0;
+	background-color: teal;
+}
+.box3{
+	background-color: lime;
+	min-height: 100px;
+	
+	font-size: 30px;
+	color: white;
+}
+.box4{
+	background-color: yellow;
+}
+.box5{
+	width: 40%;
+	min-height: 100px;
+	background-color: maroon;
+}
+
